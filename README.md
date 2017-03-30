@@ -1,6 +1,6 @@
 ---
 post_title: 'Post Title'
-layout: Estándar
+layout: Full-Width Template
 published: true
 ---
 
