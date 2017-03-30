@@ -1,7 +1,7 @@
 ---
 post_title: 'Test'
 layout: post
-published: false
+published: true
 ---
 
 
